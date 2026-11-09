@@ -145,4 +145,4 @@ This repository serves as the official landing page for HL7 Soup. The software i
 **Get the most recent version of HL7 Soup today!**
 
 ---
-**Last updated:** 2026-11-08 20:55:08 UTC
+**Last updated:** 2026-11-09 00:24:00 UTC
